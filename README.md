@@ -14,4 +14,6 @@ twitter_api
   - sample.py
 
 This article describes the program.
+
 https://qiita.com/akky-tys/items/4a1b6a11acb1fe226361
+https://qiita.com/akky-tys/items/11f9401d28d1ffbd4a04
