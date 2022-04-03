@@ -4,7 +4,7 @@
 ## What this Programs
 
 
-This program is for using the TwitterAPI.
+This program is for using the TwitterAPI and wordVec2
 
 
 twitter_api
